@@ -10,3 +10,5 @@
 </dependency>
 ```
 
+### zxing api地址
+[zxing api](https://zxing.github.io/zxing/apidocs/com/google/zxing/package-summary.html)
